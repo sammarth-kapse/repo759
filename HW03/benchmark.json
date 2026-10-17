@@ -1,0 +1,24 @@
+{
+  "hostname": "euler01.engr.wisc.edu",
+  "platform": "Linux-6.12.0-211.61.1.el10_2.x86_64-x86_64-with-glibc2.39",
+  "slurm_job_id": "91407",
+  "slurm_cpus_per_task": "20",
+  "smoke": false,
+  "repeats": 3,
+  "omp_proc_bind": "close",
+  "omp_places": "cores",
+  "best_threshold": 256,
+  "threshold_median_ms": {
+    "2": 1345.547635,
+    "4": 685.272607,
+    "8": 310.478245,
+    "16": 119.603401,
+    "32": 47.15816,
+    "64": 25.506483,
+    "128": 16.135097,
+    "256": 15.926473,
+    "512": 16.072596,
+    "1024": 16.124346
+  },
+  "elapsed_seconds": 83.73202323913574
+}
