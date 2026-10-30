@@ -1,0 +1,12 @@
+/task2
+/task3
+/validation/
+/positions.csv
+/nbody-python.png
+/nbody-cpp.png
+/hw04-*.out
+/hw04-*.err
+__pycache__/
+*.aux
+*.log
+*.out

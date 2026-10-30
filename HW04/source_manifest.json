@@ -1,0 +1,12 @@
+{
+  "slurm_job_id": "108475",
+  "source_sha256": {
+    "task2.cpp": "6f2eb4696034984784a5aba716fd3c08222347aa5c4f636ca659ba69fae73d7c",
+    "task3.cpp": "c74752fcd57e58ff762e58d5e3c45082927ce138090cb6ce6c34b90d16c936f4"
+  },
+  "provided_python_sha256": {
+    "nbody.py": "86020fa7c07f5e86942b555071a475b0ca4ddb015556033c62465fc9ad834c90",
+    "plot_positions.py": "b055d0473037dcbf3672c6550f52f416232e40f1a3c9561c12640e43f8887824"
+  },
+  "benchmark_sha256": "a1f4724f8b5088e7504525a2129e5fa737d83bb89a9d7e8dde9957431b0ca232"
+}
